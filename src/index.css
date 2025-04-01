@@ -1,0 +1,41 @@
+
+@config "../tailwind.config.js";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌌 Extra: Arkaplan ve yazı rengi için baz stil (opsiyonel) */
+
+/* src/styles/carousel.css */
+.swiper-button-prev,
+.swiper-button-next {
+  color: #000 !important;
+  /* Ok rengini siyah yap */
+  background-color: #fff !important;
+  /* Arka plan beyaz */
+  border-radius: 50%;
+  /* Daire şekli */
+  width: 36px;
+  height: 36px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Okların içindeki ikonun boyutu */
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 14px;
+}
+
+/* Pagination (dot) renkleri */
+.swiper-pagination-bullet {
+  background: #ccc !important;
+  opacity: 1 !important;
+  /* Bulanık olmasını engelle */
+  width: 8px;
+  height: 8px;
+}
+
+.swiper-pagination-bullet-active {
+  background: #007bff !important;
+  /* Aktif noktayı mavi yap */
+}

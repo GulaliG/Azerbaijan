@@ -1,0 +1,306 @@
+[
+    {
+        "name": "Baku",
+        "slug": "baku",
+        "image": "/assets/baku.jpg",
+        "description": "Capital city of Azerbaijan, located on the western coast of the Caspian Sea.",
+        "places": [
+            "Icherisheher (Old City)",
+            "Flame Towers",
+            "Baku Boulevard"
+        ],
+        "foods": [
+            "Dolma",
+            "Plov",
+            "Dushbara"
+        ]
+    },
+    {
+        "name": "Ganja",
+        "slug": "ganja",
+        "image": "/assets/ganja.jpg",
+        "description": "One of Azerbaijan's oldest cities, rich in culture and history.",
+        "places": [
+            "Nizami Mausoleum",
+            "Lake Goygol",
+            "Imamzadeh Complex"
+        ],
+        "foods": [
+            "Kebab",
+            "Qutab",
+            "Piti"
+        ]
+    },
+    {
+        "name": "Sheki",
+        "slug": "sheki",
+        "image": "/assets/sheki.jpg",
+        "description": "A picturesque city in the foothills of the Caucasus Mountains, famous for its traditional architecture.",
+        "places": [
+            "Sheki Khan's Palace",
+            "Caravanserai",
+            "Gelersen-Gorersen Fortress"
+        ],
+        "foods": [
+            "Sheki Piti",
+            "Halva",
+            "Dovga"
+        ]
+    },
+    {
+        "name": "Gabala",
+        "slug": "gabala",
+        "image": "/assets/gabala.jpg",
+        "description": "A scenic city surrounded by mountains and forests, ideal for nature lovers.",
+        "places": [
+            "Tufandag Mountain Resort",
+            "Gabala Shooting Club",
+            "Yeddi Gozel Waterfall"
+        ],
+        "foods": [
+            "Grilled Trout",
+            "Stuffed Grape Leaves",
+            "Lamb Kebab"
+        ]
+    },
+    {
+        "name": "Lankaran",
+        "slug": "lankaran",
+        "image": "/assets/lankaran.jpg",
+        "description": "A city located in the subtropical zone near the Caspian Sea, known for tea and citrus.",
+        "places": [
+            "Lankaran Fortress",
+            "Khan Evi",
+            "Hirkan National Park"
+        ],
+        "foods": [
+            "Lavangi",
+            "Balıq (Fish dishes)",
+            "Tea with Citrus"
+        ]
+    },
+    {
+        "name": "Shamakhi",
+        "slug": "shamakhi",
+        "image": "/assets/shamakhi.jpg",
+        "description": "A historic city once the capital of the Shirvanshah state, known for its poetry and wine.",
+        "places": [
+            "Juma Mosque",
+            "Yeddi Gumbaz Mausoleum",
+            "Shamakhi Astrophysical Observatory"
+        ],
+        "foods": [
+            "Shirvan Kebab",
+            "Bozbash",
+            "Gutab"
+        ]
+    },
+    {
+        "name": "Nakhchivan",
+        "slug": "nakhchivan",
+        "image": "/assets/nakhchivan.jpg",
+        "description": "An autonomous exclave of Azerbaijan with rich historical and natural heritage.",
+        "places": [
+            "Ashabi-Kahf Cave",
+            "Momine Khatun Mausoleum",
+            "Alinja Castle"
+        ],
+        "foods": [
+            "Alinja Pilaf",
+            "Khorovats",
+            "Nakhchivan Gata"
+        ]
+    },
+    {
+        "name": "Quba",
+        "slug": "quba",
+        "image": "/assets/quba.jpg",
+        "description": "A charming northern city famous for apples and beautiful mountain landscapes.",
+        "places": [
+            "Quba Mosque",
+            "Quba Genocide Memorial",
+            "Khinalig Village"
+        ],
+        "foods": [
+            "Quba Qutab",
+            "Apple Jam",
+            "Lamb Dishes"
+        ]
+    },
+    {
+        "name": "Sumqayit",
+        "slug": "sumqayit",
+        "image": "/assets/sumqayit.jpg",
+        "description": "An industrial city near Baku, located along the Caspian coast.",
+        "places": [
+            "Sumqayit Boulevard",
+            "Nasimi Park",
+            "Heydar Aliyev Center"
+        ],
+        "foods": [
+            "Fish Barbecue",
+            "Pilaf",
+            "Lule Kebab"
+        ]
+    },
+    {
+        "name": "Mingachevir",
+        "slug": "mingachevir",
+        "image": "/assets/mingachevir.jpg",
+        "description": "A city on the Kura River, known as the 'City of Lights' due to its hydropower station.",
+        "places": [
+            "Mingachevir Reservoir",
+            "Kura River Embankment",
+            "Historical Museum"
+        ],
+        "foods": [
+            "Grilled Fish",
+            "Stuffed Vegetables",
+            "Mangal Salad"
+        ]
+    },
+    {
+        "name": "Zaqatala",
+        "slug": "zaqatala",
+        "image": "/assets/zaqatala.jpg",
+        "description": "A multicultural city in the northwest known for its lush landscapes and diverse ethnic groups.",
+        "places": [
+            "Zaqatala Fortress",
+            "Dada Gorgud Park",
+            "Hazelnut Gardens"
+        ],
+        "foods": [
+            "Zaqatala Dolma",
+            "Qutabs",
+            "Hazelnut Sweets"
+        ]
+    },
+    {
+        "name": "Gakh",
+        "slug": "gakh",
+        "image": "/assets/gakh.jpg",
+        "description": "A serene town near the Georgian border, famous for waterfalls and natural beauty.",
+        "places": [
+            "Ilisu Village",
+            "Ram-Ram Waterfall",
+            "Sumug Fortress"
+        ],
+        "foods": [
+            "Gakh Lavangi",
+            "Cornbread",
+            "Tandir Kebab"
+        ]
+    },
+    {
+        "name": "Ismayilli",
+        "slug": "ismayilli",
+        "image": "/assets/ismayilli.jpg",
+        "description": "Located in the foothills of the Greater Caucasus, known for its forests and traditional villages.",
+        "places": [
+            "Lahij Village",
+            "Bash Goynuk",
+            "Ismayilli State Reserve"
+        ],
+        "foods": [
+            "Lahij-style Kebabs",
+            "Dovga",
+            "Plov"
+        ]
+    },
+    {
+        "name": "Masalli",
+        "slug": "masalli",
+        "image": "/assets/masalli.jpg",
+        "description": "A southern city known for its hot springs and proximity to the Talysh Mountains.",
+        "places": [
+            "Istisu Resort",
+            "Vilash River",
+            "Talysh Mountains"
+        ],
+        "foods": [
+            "Lavangi",
+            "Kufta",
+            "Masalli Fish"
+        ]
+    },
+    {
+        "name": "Jalilabad",
+        "slug": "jalilabad",
+        "image": "/assets/jalilabad.jpg",
+        "description": "An agricultural region in the south of Azerbaijan, famous for wine and fruits.",
+        "places": [
+            "Local Vineyards",
+            "City Park",
+            "Heydar Aliyev Center"
+        ],
+        "foods": [
+            "Grape Dishes",
+            "Pilaf",
+            "Kebabs"
+        ]
+    },
+    {
+        "name": "Shirvan",
+        "slug": "shirvan",
+        "image": "/assets/shirvan.jpg",
+        "description": "An important industrial city located in central Azerbaijan.",
+        "places": [
+            "Shirvan City Park",
+            "Shirvan Museum",
+            "Old Mosque"
+        ],
+        "foods": [
+            "Kebab",
+            "Stuffed Peppers",
+            "Dushbara"
+        ]
+    },
+    {
+        "name": "Salyan",
+        "slug": "salyan",
+        "image": "/assets/salyan.jpg",
+        "description": "A city near the Kura River, known for its caviar and fishing industry.",
+        "places": [
+            "Kura River",
+            "Haji Tapdig Mosque",
+            "Local Fish Markets"
+        ],
+        "foods": [
+            "Sturgeon",
+            "Caviar",
+            "Fish Plov"
+        ]
+    },
+    {
+        "name": "Yevlakh",
+        "slug": "yevlakh",
+        "image": "/assets/yevlakh.jpg",
+        "description": "A central Azerbaijani city and transportation hub.",
+        "places": [
+            "Yevlakh Park",
+            "Cultural Center",
+            "Local Bazaar"
+        ],
+        "foods": [
+            "Plov",
+            "Grilled Meat",
+            "Lentil Soup"
+        ]
+    },
+    {
+        "name": "Agdam",
+        "slug": "agdam",
+        "image": "/assets/agdam.jpg",
+        "description": "A city affected by conflict, now under reconstruction with deep historical roots.",
+        "places": [
+            "Agdam Mosque",
+            "Panorama of the Ruins",
+            "Bread Museum"
+        ],
+        "foods": [
+            "Karabakh-style Kebab",
+            "Tandir Bread",
+            "Piti"
+        ]
+    }
+]
