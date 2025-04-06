@@ -11,12 +11,12 @@ const Navbar = () => {
 
                 {/* Menü Linkleri */}
                 <nav className="flex space-x-8 text-gray-700 text-sm font-medium">
-                    <a href="#cities" className="hover:text-blue-600 transition">Cities</a>
-                    <a href="#cuisine" className="hover:text-blue-600 transition">Cuisine</a>
-                    <a href="#things" className="hover:text-blue-600 transition">Activities</a>
-                    <a href="#gallery" className="hover:text-blue-600 transition">Gallery</a>
-                    <a href="#testimonials" className="hover:text-blue-600 transition">Reviews</a>
-                    <a href="#map" className="hover:text-blue-600 transition">Map</a>
+                    <Link to="/cities" className="hover:text-blue-600 transition">Cities</Link>
+                    <Link to="/cuisine" className="hover:text-blue-600 transition">Cuisine</Link>
+                    <Link to="/activities" className="hover:text-blue-600 transition">Activities</Link>
+                    <Link to="/gallery" className="hover:text-blue-600 transition">Gallery</Link>
+                    <Link to="/reviews" className="hover:text-blue-600 transition">Reviews</Link>
+                    <Link to="/map" className="hover:text-blue-600 transition">Map</Link>
                 </nav>
             </div>
         </header>

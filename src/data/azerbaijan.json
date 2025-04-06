@@ -5,14 +5,32 @@
         "image": "/assets/baku.jpg",
         "description": "Capital city of Azerbaijan, located on the western coast of the Caspian Sea.",
         "places": [
-            "Icherisheher (Old City)",
-            "Flame Towers",
-            "Baku Boulevard"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Dolma",
-            "Plov",
-            "Dushbara"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -21,30 +39,65 @@
         "image": "/assets/ganja.jpg",
         "description": "One of Azerbaijan's oldest cities, rich in culture and history.",
         "places": [
-            "Nizami Mausoleum",
-            "Lake Goygol",
-            "Imamzadeh Complex"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Kebab",
-            "Qutab",
-            "Piti"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
         "name": "Sheki",
         "slug": "sheki",
         "image": "/assets/sheki.jpg",
-        "description": "A picturesque city in the foothills of the Caucasus Mountains, famous for its traditional architecture.",
         "places": [
-            "Sheki Khan's Palace",
-            "Caravanserai",
-            "Gelersen-Gorersen Fortress"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Sheki Piti",
-            "Halva",
-            "Dovga"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -53,14 +106,32 @@
         "image": "/assets/gabala.jpg",
         "description": "A scenic city surrounded by mountains and forests, ideal for nature lovers.",
         "places": [
-            "Tufandag Mountain Resort",
-            "Gabala Shooting Club",
-            "Yeddi Gozel Waterfall"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Grilled Trout",
-            "Stuffed Grape Leaves",
-            "Lamb Kebab"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -69,14 +140,32 @@
         "image": "/assets/lankaran.jpg",
         "description": "A city located in the subtropical zone near the Caspian Sea, known for tea and citrus.",
         "places": [
-            "Lankaran Fortress",
-            "Khan Evi",
-            "Hirkan National Park"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Lavangi",
-            "Balıq (Fish dishes)",
-            "Tea with Citrus"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -85,14 +174,32 @@
         "image": "/assets/shamakhi.jpg",
         "description": "A historic city once the capital of the Shirvanshah state, known for its poetry and wine.",
         "places": [
-            "Juma Mosque",
-            "Yeddi Gumbaz Mausoleum",
-            "Shamakhi Astrophysical Observatory"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Shirvan Kebab",
-            "Bozbash",
-            "Gutab"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -101,14 +208,32 @@
         "image": "/assets/nakhchivan.jpg",
         "description": "An autonomous exclave of Azerbaijan with rich historical and natural heritage.",
         "places": [
-            "Ashabi-Kahf Cave",
-            "Momine Khatun Mausoleum",
-            "Alinja Castle"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Alinja Pilaf",
-            "Khorovats",
-            "Nakhchivan Gata"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -117,14 +242,32 @@
         "image": "/assets/quba.jpg",
         "description": "A charming northern city famous for apples and beautiful mountain landscapes.",
         "places": [
-            "Quba Mosque",
-            "Quba Genocide Memorial",
-            "Khinalig Village"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Quba Qutab",
-            "Apple Jam",
-            "Lamb Dishes"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -133,14 +276,32 @@
         "image": "/assets/sumqayit.jpg",
         "description": "An industrial city near Baku, located along the Caspian coast.",
         "places": [
-            "Sumqayit Boulevard",
-            "Nasimi Park",
-            "Heydar Aliyev Center"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Fish Barbecue",
-            "Pilaf",
-            "Lule Kebab"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -149,14 +310,32 @@
         "image": "/assets/mingachevir.jpg",
         "description": "A city on the Kura River, known as the 'City of Lights' due to its hydropower station.",
         "places": [
-            "Mingachevir Reservoir",
-            "Kura River Embankment",
-            "Historical Museum"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Grilled Fish",
-            "Stuffed Vegetables",
-            "Mangal Salad"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -165,14 +344,32 @@
         "image": "/assets/zaqatala.jpg",
         "description": "A multicultural city in the northwest known for its lush landscapes and diverse ethnic groups.",
         "places": [
-            "Zaqatala Fortress",
-            "Dada Gorgud Park",
-            "Hazelnut Gardens"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Zaqatala Dolma",
-            "Qutabs",
-            "Hazelnut Sweets"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -181,14 +378,32 @@
         "image": "/assets/gakh.jpg",
         "description": "A serene town near the Georgian border, famous for waterfalls and natural beauty.",
         "places": [
-            "Ilisu Village",
-            "Ram-Ram Waterfall",
-            "Sumug Fortress"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Gakh Lavangi",
-            "Cornbread",
-            "Tandir Kebab"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -197,14 +412,32 @@
         "image": "/assets/ismayilli.jpg",
         "description": "Located in the foothills of the Greater Caucasus, known for its forests and traditional villages.",
         "places": [
-            "Lahij Village",
-            "Bash Goynuk",
-            "Ismayilli State Reserve"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Lahij-style Kebabs",
-            "Dovga",
-            "Plov"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -213,14 +446,32 @@
         "image": "/assets/masalli.jpg",
         "description": "A southern city known for its hot springs and proximity to the Talysh Mountains.",
         "places": [
-            "Istisu Resort",
-            "Vilash River",
-            "Talysh Mountains"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Lavangi",
-            "Kufta",
-            "Masalli Fish"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -229,14 +480,32 @@
         "image": "/assets/jalilabad.jpg",
         "description": "An agricultural region in the south of Azerbaijan, famous for wine and fruits.",
         "places": [
-            "Local Vineyards",
-            "City Park",
-            "Heydar Aliyev Center"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Grape Dishes",
-            "Pilaf",
-            "Kebabs"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -245,14 +514,32 @@
         "image": "/assets/shirvan.jpg",
         "description": "An important industrial city located in central Azerbaijan.",
         "places": [
-            "Shirvan City Park",
-            "Shirvan Museum",
-            "Old Mosque"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Kebab",
-            "Stuffed Peppers",
-            "Dushbara"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -261,14 +548,32 @@
         "image": "/assets/salyan.jpg",
         "description": "A city near the Kura River, known for its caviar and fishing industry.",
         "places": [
-            "Kura River",
-            "Haji Tapdig Mosque",
-            "Local Fish Markets"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Sturgeon",
-            "Caviar",
-            "Fish Plov"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
@@ -277,30 +582,65 @@
         "image": "/assets/yevlakh.jpg",
         "description": "A central Azerbaijani city and transportation hub.",
         "places": [
-            "Yevlakh Park",
-            "Cultural Center",
-            "Local Bazaar"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Plov",
-            "Grilled Meat",
-            "Lentil Soup"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     },
     {
         "name": "Agdam",
         "slug": "agdam",
         "image": "/assets/agdam.jpg",
-        "description": "A city affected by conflict, now under reconstruction with deep historical roots.",
         "places": [
-            "Agdam Mosque",
-            "Panorama of the Ruins",
-            "Bread Museum"
+            {
+                "name": "Sheki Khan's Palace",
+                "image": "/assets/places/sheki/sheki-khan-palace.jpg"
+            },
+            {
+                "name": "Caravanserai",
+                "image": "/assets/places/sheki/caravanserai.jpg"
+            },
+            {
+                "name": "Gelersen-Gorersen Fortress",
+                "image": "/assets/places/sheki/gelersen.jpg"
+            }
         ],
         "foods": [
-            "Karabakh-style Kebab",
-            "Tandir Bread",
-            "Piti"
+            {
+                "name": "Sheki Piti",
+                "image": "/assets/foods/sheki/sheki-piti.jpg"
+            },
+            {
+                "name": "Halva",
+                "image": "/assets/foods/sheki/halva.jpg"
+            },
+            {
+                "name": "Dovga",
+                "image": "/assets/foods/sheki/dovga.jpg"
+            }
         ]
     }
 ]

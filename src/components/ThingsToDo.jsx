@@ -29,7 +29,7 @@ const ThingsToDo = () => {
             <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
                 Top Things To Do
             </h2>
-            <div className="flex flex-wrap justify-center gap-6 px-4">
+            <div className="flex flex-wrap justify-center gap-x-40 gap-y-20 px-4">
                 {activities.map((activity, index) => (
                     <ActivityCard key={index} activity={activity} />
                 ))}
